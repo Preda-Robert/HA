@@ -9,10 +9,8 @@ It allows users to choose from pre-defined graphs or input their own adjacency m
 
 ## How to Use
 
-1. Clone the repository to your local machine.
-2. Ensure you have Python installed.
-3. Run the script by executing `python tsp_solver.py`.
-4. Follow the on-screen menu prompts to select options:
+1. Run the script by executing `TSP.py`.
+2. Follow the on-screen menu prompts to select options:
     - **1**: Use the first pre-defined graph.
     - **2**: Use the second pre-defined graph.
     - **3**: Use a graph from the `test1.txt` file, which contains data from gr24.tsp.
