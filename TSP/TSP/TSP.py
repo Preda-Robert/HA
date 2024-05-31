@@ -9,8 +9,8 @@ def print_menu():
     print("Choose an option:")
     print("1: Use first pre-defined graph")
     print("2: Use second pre-defined graph")
-    print("3: Use graph from gr24 file")
-    print("4: Use graph from gr17 file")
+    print("3: Use graph from gr24 file (might take a while)")
+    print("4: Use graph from gr17 file (might take a while)")
     print("5: Input your own adjacency matrix")
     print("0: Exit")
 
